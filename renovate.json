@@ -7,7 +7,6 @@
   "ignoreFuture": true,
   "ignoreUnstable": true,
   "respectLatest": true,
-  "recreateClosed": false,
   "rebaseStalePrs": false,
   "prCreation": "immediate",
   "automerge": "none",
